@@ -19,15 +19,6 @@ I'm a passionate developer who thrives on side projects. For me, coding outside 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexisDeslandes&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Alexis's Stats" height="192px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisDeslandes&layout=compact&theme=radical" alt="Top Languages" height="192px" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 *   **Website / Main Project**: [erudit.app](https://erudit.app)
